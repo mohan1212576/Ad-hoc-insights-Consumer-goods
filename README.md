@@ -7,7 +7,7 @@ This repository contains solutions to **10 real-time business queries** analyzed
 
 ## 📂 Important Links
 
-- 🔗 [LinkedIn Post](#) *(Update with actual link)*
+- <a href ="https://www.linkedin.com/posts/mohan-b-4b7719199_github-mohan1212576ad-hoc-insights-consumer-goods-activity-7317110772982075393-2eLL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC6O9IsBUFscZdiXW4-tlacqbHfAQjEVH0M">🔗 [LinkedIn Post]</a>
 - 📊 [Presentation](#) *(Update with actual link)*
 - 🧩 [SQL Codes](#) *(Update with actual link)*
 
